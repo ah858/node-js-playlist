@@ -1,7 +1,3 @@
-# Code created following The Net Ninja tutorial (see below)
-
-~ Akil
-
 # node-js-playlist
 CSS and asset files for the Net Ninja YouTube nodejs playlist
 
